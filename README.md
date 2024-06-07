@@ -1,7 +1,5 @@
 # memzorb.github.io
 
-Privacy policy:
-
 **Privacy Policy**
 
 MemZorb ("we", "our", or "us") operates MEmZorb (the "App"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our App and the choices you have associated with that data.
